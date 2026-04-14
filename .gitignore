@@ -1,0 +1,10 @@
+# IDE - JetBrains
+.idea/
+
+# AI Assistant Configuration
+.claude/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+.claude/
